@@ -9,6 +9,9 @@ gem 'puma', '~> 4.1'
 
 #Webbit Gems
 gem 'devise', '~> 4.6'
+gem 'carrierwave', '~> 2.0', '>= 2.0.2'
+gem 'mini_magick', '~> 4.9', '>= 4.9.5' #for carrierwave
+
 
 
 
