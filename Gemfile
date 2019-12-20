@@ -11,6 +11,8 @@ gem 'puma', '~> 4.1'
 gem 'devise', '~> 4.6'
 gem 'carrierwave', '~> 2.0', '>= 2.0.2'
 gem 'mini_magick', '~> 4.9', '>= 4.9.5' #for carrierwave
+gem 'valid_url', '~> 0.0.4'
+gem 'inline_svg', '~> 1.6'
 
 
 
